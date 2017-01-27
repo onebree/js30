@@ -1,6 +1,7 @@
 title: JS30 Demos
 author: Hunter Stevens
 description: Demos for the JavaScript30 course by Wes Bos
+baseurl: ""
 theme: minima
 twitter_username: twobree
 github_username: onebree
