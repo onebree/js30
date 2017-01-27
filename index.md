@@ -6,4 +6,4 @@ layout: default
 
 A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 
-1. [Drum Kit](/js30/01-drum-kit/)
+1. [Drum Kit]({{site.baseurl}}/01-drum-kit/)
