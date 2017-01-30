@@ -64,16 +64,26 @@
       transform-origin: 100%;
       transform: rotate(90deg);
       transition: all 0.05s;
-      transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+      transition-timing-function: cubic-bezier(0.05, 1.69, 1, 1.63);
     }
 
+    .hour-hand {
+      background: gray;
+    }
+
+    .min-hand {
+    }
+
+    .second-hand {
+      height: 3px;
+      background: red;
+    }
   </style>
 
   <script>
     const secondHand = document.querySelector(".second-hand");
     const minuteHand = document.querySelector(".min-hand");
     const hourHand   = document.querySelector(".hour-hand");
-
 
     // Number of HH/MM/SS will be turned into degrees
     // Add 90 to compensate for initial rotate offset of 90deg
