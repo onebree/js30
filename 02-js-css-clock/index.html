@@ -86,15 +86,39 @@
 
       const seconds = now.getSeconds();
       const secondsDegrees = timeToDegrees(seconds, 60);
-      secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
 
       const minutes = now.getMinutes();
       const minutesDegrees = timeToDegrees(minutes, 60);
-      minuteHand.style.transform = `rotate(${minutesDegrees}deg)`;
 
       const hours = now.getHours();
       const hoursDegrees = timeToDegrees(hours, 12);
-      hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
+
+      // Disable transition when hand reaches 90deg
+      if (secondsDegrees == 90) {
+        secondHand.style.transitionProperty = "none";
+      }
+      if (minutesDegrees == 90) {
+        minuteHand.style.transitionProperty = "none";
+      }
+      if (hoursDegrees == 90) {
+        hourHand.style.transitionProperty = "none";
+      }
+
+      // Business as usual
+      secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+      minuteHand.style.transform = `rotate(${minutesDegrees}deg)`;
+      hourHand.style.transform   = `rotate(${hoursDegrees}deg)`;
+
+      // Re-enable transition after 00 seconds
+      if (secondsDegrees == 96) {
+        secondHand.style.transitionProperty = "all";
+      }
+      if (minutesDegrees == 96) {
+        minuteHand.style.transitionProperty = "all";
+      }
+      if (hoursDegrees == 96) {
+        hourHand.style.transitionProperty = "all";
+      }
     }
 
     setInterval(setDate, 1000);
