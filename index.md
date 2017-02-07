@@ -11,4 +11,5 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 3. [Using CSS variables](/js30/03-css-variables/)
 4. [Array Cardio Day 1](/js30/04-array-cardio-1/)
 5. [Flex panel photo gallery](/js30/05-flex-panel-gallery/)
-5. [City search using AJAX and Fetch](/js30/06-type-ahead/)
+6. [City search using AJAX and Fetch](/js30/06-type-ahead/)
+7. [Array Cardio Day 2](/js30/07-array-cardio-2/)
