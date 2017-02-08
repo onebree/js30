@@ -14,3 +14,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 6. [City search using AJAX and Fetch](/js30/06-type-ahead/)
 7. [Array Cardio Day 2](/js30/07-array-cardio-2/)
 8. [Fun with HTML5 Canvas](/js30/08-html5-canvas/)
+9. [`console` tricks](/js30/09-console-tricks/)
