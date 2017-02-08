@@ -16,8 +16,8 @@ permalink: /08-html5-canvas/
   const canvas = document.querySelector('#draw');
   const ctx = canvas.getContext('2d');
 
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
+  canvas.width = window.innerWidth - 5;
+  canvas.height = window.innerHeight - 5;
 
   ctx.strokeStyle = '#BADA55';
   ctx.lineJoin = 'round';
