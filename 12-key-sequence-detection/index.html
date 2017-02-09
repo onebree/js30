@@ -1,0 +1,35 @@
+---
+layout: none
+permalink: /12-key-sequence-detection/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+  <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+  <p>Enter the secret code! HINT: Check the console!</p>
+<script>
+  const pressed = [];
+  const secretCode = 'konami';
+
+  console.log(`The secret code is: "${secretCode}"`);
+
+  window.addEventListener('keyup', (e) => {
+    pressed.push(e.key);
+    pressed.splice(
+      -secretCode.length - 1,
+      pressed.length - secretCode.length
+    );
+
+    if (pressed.join('').includes(secretCode)) {
+      console.log('DING DING!');
+      cornify_add();
+    }
+  });
+</script>
+</body>
+</html>
