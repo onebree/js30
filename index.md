@@ -18,3 +18,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 10. [Hold shift to check multiple checkboxes](/js30/10-hold-shift-and-check/)
 11. [Custom HTML5 video player](/js30/11-html5-video-player/)
 12. [Key sequence detection](/js30/12-key-sequence-detection/)
+13. [Slide in images on scroll](/js30/13-slide-in-on-scroll/)
