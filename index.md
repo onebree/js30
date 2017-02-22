@@ -19,3 +19,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 11. [Custom HTML5 video player](/js30/11-html5-video-player/)
 12. [Key sequence detection](/js30/12-key-sequence-detection/)
 13. [Slide in images on scroll](/js30/13-slide-in-on-scroll/)
+14. [Reference vs copy in objects and arrays](/js30/14-reference-vs-copy/)
