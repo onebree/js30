@@ -20,3 +20,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 12. [Key sequence detection](/js30/12-key-sequence-detection/)
 13. [Slide in images on scroll](/js30/13-slide-in-on-scroll/)
 14. [Reference vs copy in objects and arrays](/js30/14-reference-vs-copy/)
+15. [`localStorage` and event delegation](/js30/15-localstorage/)
