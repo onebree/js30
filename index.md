@@ -24,3 +24,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 16. [Mouse move shadow](/js30/16-mouse-move-shadow/)
 17. [Sort band names without articles](/js30/17-sort-without-articles/)
 18. [Tallying up string times with `reduce()`](/js30/18-adding-with-reduce/)
+19. [Webcam fun](/js30/19-webcam-fun/) - WIP (no filters)
