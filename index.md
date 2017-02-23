@@ -22,3 +22,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 14. [Reference vs copy in objects and arrays](/js30/14-reference-vs-copy/)
 15. [`localStorage` and event delegation](/js30/15-localstorage/)
 16. [Mouse move shadow](/js30/16-mouse-move-shadow/)
+17. [Sort band names without articles](/js30/17-sort-without-articles/)
