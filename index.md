@@ -26,4 +26,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 18. [Tallying up string times with `reduce()`](/js30/18-adding-with-reduce/)
 19. [Webcam fun](/js30/19-webcam-fun/) - WIP - green screen activated
 20. [Native speech recognition](/js30/20-speech-detection/) - please use Chrome
-21. [Geolocation-based compass and speedometer](/js30/21-geolocation/)
+21. [Geolocation-based compass and speedometer](/js30/21-geolocation/) - WIP
