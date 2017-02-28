@@ -27,3 +27,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 19. [Webcam fun](/js30/19-webcam-fun/) - WIP - green screen activated
 20. [Native speech recognition](/js30/20-speech-detection/) - please use Chrome
 21. [Geolocation-based compass and speedometer](/js30/21-geolocation/) - WIP
+22. [Follow along links](/js30/22-follow-along-links/)
