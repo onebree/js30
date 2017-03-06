@@ -29,3 +29,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 21. [Geolocation-based compass and speedometer](/js30/21-geolocation/) - WIP
 22. [Follow along links](/js30/22-follow-along-links/)
 23. [Speech synthesis](/js30/23-speech-synthesis/) - buggy - please use Chrome
+24. [Sticky nav](/js30/24-sticky-nav/)
