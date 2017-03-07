@@ -32,3 +32,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 24. [Sticky nav](/js30/24-sticky-nav/)
 25. [Event propagation](/js30/25-event-propagation/)
 26. [Follow along nav](/js30/26-follow-along-nav/) - please use Chrome
+27. [Click and drag](/js30/27-click-and-drag/)
