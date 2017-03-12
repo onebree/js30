@@ -34,3 +34,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 26. [Follow along nav](/js30/26-follow-along-nav/) - please use Chrome
 27. [Click and drag](/js30/27-click-and-drag/)
 28. [Video speed controller](/js30/28-video-speed-controller/)
+29. [Countdown clock](/js30/29-countdown-clock/)
