@@ -35,3 +35,4 @@ A directory of my work for [JavaScript30](https://javascript30.com/) by Wes Bos.
 27. [Click and drag](/js30/27-click-and-drag/)
 28. [Video speed controller](/js30/28-video-speed-controller/)
 29. [Countdown clock](/js30/29-countdown-clock/)
+30. [Whack-a-mole game](/js30/30-whack-a-mole-game/)
